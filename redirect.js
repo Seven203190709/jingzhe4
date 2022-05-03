@@ -4,9 +4,9 @@ function myFunction() {
   x = document.getElementById("myText").value;
 
   if (x=="students") {
-  window.location.replace("https://www.w3schools.com/")
+  window.location.replace("https://seven203190709.github.io/jingzhe4/course.html")
   } else if (x=="parents"){
-  window. location.replace("https://www.w3schools.com/")
+  window. location.replace("https://seven203190709.github.io/jingzhe4/index.html")
   
   }
   else if (x!="students"){
